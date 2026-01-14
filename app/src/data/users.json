@@ -1,0 +1,26 @@
+[
+  {
+    "id": "89aed3c2-346e-4d28-b6cc-1b5708942791",
+    "username": "locarefujimoto@gmail.com",
+    "password": "$2b$10$thBaiBFpn9/VyOd5gCHVVOBm1ypYyS3OHLChj.yf/oHlkFSwYDfR2",
+    "role": "admin",
+    "name": "藤本管理者",
+    "email": ""
+  },
+  {
+    "id": "c2129c06-59dd-48af-a12b-7f45dea5bb80",
+    "username": "manamana072554@gmail.com",
+    "password": "$2b$10$ZDlbZY2gXEAZt3z.Rl4HMOwAAdpgpjJ7vp/SWROEYBmqpEbHBtKvG",
+    "role": "viewer",
+    "name": "藤本閲覧者",
+    "email": ""
+  },
+  {
+    "id": "9217967e-8acd-4de1-87ec-df1e883b4194",
+    "username": "locareinagaki@gmail.com",
+    "password": "$2b$10$R2zevpe63LqBBUwwfLkAaefGYnxXDcKb/TT0acA7IJ163FeFiTS0i",
+    "role": "viewer",
+    "name": "稲垣",
+    "email": ""
+  }
+]
